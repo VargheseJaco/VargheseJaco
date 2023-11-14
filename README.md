@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning SQL, EDA principles and applications of machine learning for data science
 - 💞️ I’m looking to collaborate on projects where I can practice OOP development
 - 📫 How to reach me:
-      varghesejacob2001@gmail.com
-      https://www.linkedin.com/in/varghesesajijacob/    
+    - varghesejacob2001@gmail.com
+    - https://www.linkedin.com/in/varghesesajijacob/    
 
 <!---
 VargheseJaco/VargheseJaco is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
